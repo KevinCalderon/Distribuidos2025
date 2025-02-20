@@ -5,7 +5,7 @@ num=input('Introduzca un número entero:');
 
 fact=1
 
-for i=1:num-1
+for i=1:num
     fact=fact*i
 end
 
